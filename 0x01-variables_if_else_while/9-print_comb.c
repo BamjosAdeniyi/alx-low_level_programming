@@ -5,7 +5,7 @@
  *
  * Return:Always 0 (Success)
  */
-int ,aim(void)
+int main(void)
 {
 	int num;
 
